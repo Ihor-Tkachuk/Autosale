@@ -6,3 +6,24 @@
 .container-img {
     width: 100%;
 }
+.container-cars {
+    text-align: center;
+}
+.carborder {
+    border: 3px dashed black;;
+}
+.footer {
+    background:black;
+    text-align: center;
+    color: white;  
+}
+.bold { 
+    font-weight:bold;
+}
+.oblique {
+    font-style: oblique;
+}
+.blue-oblique {
+    font-style: oblique;
+    color: blue;
+}
