@@ -49,7 +49,6 @@ nav {
 }
 .menu li {
     display: inline-block;
-    margin-top: 30px;
     padding-block-start: 10px;
     padding-inline: 60px;
   }
@@ -57,3 +56,18 @@ nav {
       color: white;
       text-decoration: none;
   }
+  .footbackgr {
+      background-color:rgb(255, 123, 0);
+      text-align: center;
+      color: white;
+  }
+  .left {
+      display:inline-block;
+  }
+  .center {
+      display:inline-block;
+  }
+  .right {
+    display:inline-block;
+  }
+ 
