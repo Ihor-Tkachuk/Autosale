@@ -30,3 +30,30 @@
 .blue {
     color: blue;
 }
+header {
+    text-align: center;
+    background:#9A0909;
+}
+.image {
+    width: 70%;
+}
+
+nav {
+    background: black;
+}
+.menu {
+    list-style-type: none;
+    margin-top: 0% ;
+    padding: 0;
+    padding-top: 20px;
+}
+.menu li {
+    display: inline-block;
+    margin-top: 30px;
+    padding-block-start: 10px;
+    padding-inline: 60px;
+  }
+  a {
+      color: white;
+      text-decoration: none;
+  }
